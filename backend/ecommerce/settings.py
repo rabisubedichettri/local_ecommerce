@@ -16,6 +16,7 @@ from datetime import timedelta
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+print("dg",Path(__file__).resolve())
 
 
 # Quick-start development settings - unsuitable for production
